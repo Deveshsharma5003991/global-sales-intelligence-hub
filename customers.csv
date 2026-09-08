@@ -1,0 +1,401 @@
+customer_id,company_name,contact_name,region,industry,segment,signup_date
+1,Bright Retail,Ishaan Singh,Europe,Manufacturing,SMB,2024-01-30
+2,North Holdings,Robert Davis,Europe,Retail,Mid-Market,2022-04-15
+3,Orbit Foods,Aarav Gupta,North America,Manufacturing,SMB,2022-02-02
+4,Nova Electronics,Aarav Davis,APAC,Manufacturing,SMB,2023-09-09
+5,Falcon Foods,Kiara Rodriguez,APAC,Healthcare,Mid-Market,2022-08-14
+6,Global Mart,Sai Brown,North America,Healthcare,SMB,2024-04-05
+7,Metro Industries,Linda Smith,Europe,Retail,SMB,2022-08-09
+8,Apex Foods,Diya Johnson,North America,Food & Beverage,Mid-Market,2022-04-10
+9,Metro Mart,David Jones,Europe,Food & Beverage,Mid-Market,2022-02-14
+10,Bright Systems,Aditya Davis,Europe,Healthcare,Enterprise,2023-01-23
+11,Titan Systems,Diya Rodriguez,Europe,Manufacturing,Enterprise,2024-06-01
+12,Apex Retail,Krishna Malhotra,LATAM,Retail,SMB,2023-11-09
+13,Nova Supplies,Saanvi Kapoor,North America,Technology,SMB,2022-04-14
+14,Delta Industries,Diya Iyer,Europe,Automotive,Mid-Market,2023-01-15
+15,Metro Holdings,James Gupta,North America,Food & Beverage,Mid-Market,2023-12-01
+16,Summit Electronics,Krishna Nair,APAC,Technology,SMB,2024-01-17
+17,Zenith Enterprises,Michael Davis,Europe,Manufacturing,SMB,2023-10-18
+18,Crest Supplies,Linda Verma,APAC,Manufacturing,SMB,2024-02-26
+19,Prime Mart,Saanvi Kapoor,Europe,Retail,Enterprise,2022-11-20
+20,Blue Systems,Jessica Smith,North America,Manufacturing,Mid-Market,2023-08-04
+21,Coastal Foods,Karen Jones,Europe,Manufacturing,SMB,2024-06-24
+22,Metro Industries,David Davis,Europe,Food & Beverage,SMB,2022-09-10
+23,Metro Holdings,Aadhya Rodriguez,North America,Technology,Enterprise,2023-08-22
+24,Delta Solutions,Anika Garcia,MEA,Retail,Mid-Market,2022-05-22
+25,Prime Supplies,Arjun Nair,North America,Construction,SMB,2022-04-23
+26,Pioneer Distributors,Saanvi Williams,APAC,Food & Beverage,Enterprise,2022-03-07
+27,Union Electronics,Navya Sharma,Europe,Automotive,SMB,2022-09-15
+28,Bright Ventures,Navya Kapoor,Europe,Construction,Enterprise,2024-06-25
+29,Crest Traders,Aadhya Nair,North America,Technology,SMB,2022-10-28
+30,Global Holdings,David Kapoor,APAC,Food & Beverage,Mid-Market,2024-06-15
+31,Summit Electronics,Susan Malhotra,North America,Construction,SMB,2022-04-19
+32,Silver Distributors,Arjun Johnson,Europe,Construction,Mid-Market,2022-07-23
+33,Summit Electronics,Karen Miller,Europe,Retail,Enterprise,2024-03-08
+34,Titan Logistics,Aarav Mehta,North America,Healthcare,SMB,2023-05-16
+35,Vertex Solutions,Krishna Rodriguez,North America,Retail,SMB,2022-03-01
+36,Apex Holdings,Patricia Gupta,North America,Construction,SMB,2023-05-13
+37,Falcon Mart,Arjun Garcia,North America,Food & Beverage,Mid-Market,2022-05-09
+38,Summit Enterprises,Susan Martinez,North America,Technology,SMB,2023-06-25
+39,Blue Systems,Linda Iyer,APAC,Automotive,SMB,2023-07-07
+40,Vertex Foods,James Johnson,North America,Technology,SMB,2023-11-19
+41,Silver Textiles,Krishna Singh,APAC,Retail,Mid-Market,2022-05-04
+42,Crest Retail,Navya Singh,North America,Food & Beverage,Mid-Market,2023-08-26
+43,Nova Retail,Michael Verma,APAC,Manufacturing,Enterprise,2022-03-14
+44,Apex Systems,Susan Smith,Europe,Retail,Mid-Market,2022-02-02
+45,Silver Solutions,Robert Garcia,North America,Manufacturing,SMB,2022-10-13
+46,Falcon Industries,Karen Rodriguez,North America,Food & Beverage,SMB,2024-01-11
+47,Coastal Solutions,Myra Brown,Europe,Manufacturing,SMB,2024-03-14
+48,Bright Traders,Aadhya Johnson,North America,Technology,Mid-Market,2023-11-06
+49,Pioneer Textiles,David Verma,North America,Automotive,SMB,2024-06-03
+50,Bright Retail,David Smith,Europe,Construction,Mid-Market,2023-02-17
+51,Bright Solutions,Reyansh Davis,LATAM,Technology,Enterprise,2022-07-16
+52,North Foods,Ishaan Jones,Europe,Manufacturing,Mid-Market,2022-07-07
+53,Apex Textiles,Susan Davis,APAC,Retail,Mid-Market,2024-04-07
+54,Prime Ventures,Patricia Sharma,APAC,Retail,SMB,2023-07-08
+55,Nova Industries,Myra Garcia,APAC,Manufacturing,Enterprise,2023-02-21
+56,Zenith Systems,Sai Williams,APAC,Retail,Mid-Market,2022-03-02
+57,Zenith Enterprises,Mary Jones,North America,Healthcare,SMB,2024-03-13
+58,Pioneer Holdings,Mary Davis,North America,Automotive,Mid-Market,2024-01-19
+59,Coastal Industries,Rohan Iyer,APAC,Retail,SMB,2022-07-14
+60,Orbit Holdings,Vivaan Smith,Europe,Retail,Enterprise,2023-07-10
+61,Prime Distributors,Anika Miller,North America,Manufacturing,SMB,2023-05-04
+62,Prime Electronics,Susan Nair,LATAM,Retail,SMB,2022-03-24
+63,Titan Traders,Susan Singh,APAC,Technology,SMB,2023-11-23
+64,Bright Systems,Krishna Rodriguez,North America,Food & Beverage,SMB,2023-08-07
+65,Prime Distributors,Aadhya Rodriguez,LATAM,Food & Beverage,Mid-Market,2022-03-25
+66,Silver Logistics,Reyansh Smith,North America,Manufacturing,SMB,2022-09-25
+67,Metro Foods,Robert Malhotra,LATAM,Technology,SMB,2022-05-15
+68,Crest Systems,Karen Gupta,North America,Retail,SMB,2024-02-09
+69,Union Distributors,Vihaan Gupta,Europe,Food & Beverage,Enterprise,2023-07-31
+70,Blue Electronics,Arjun Johnson,APAC,Retail,Mid-Market,2022-09-29
+71,Nova Logistics,Sai Jones,Europe,Construction,SMB,2022-10-19
+72,Falcon Holdings,Ira Miller,North America,Retail,Mid-Market,2022-11-06
+73,Falcon Enterprises,Vihaan Reddy,North America,Healthcare,SMB,2023-11-11
+74,Bright Systems,David Davis,APAC,Manufacturing,SMB,2022-04-20
+75,Metro Enterprises,Reyansh Smith,North America,Manufacturing,Mid-Market,2023-09-12
+76,Metro Electronics,Ishaan Verma,North America,Retail,Mid-Market,2023-05-16
+77,Pioneer Supplies,Vivaan Sharma,LATAM,Healthcare,SMB,2022-10-11
+78,North Ventures,Sai Jones,Europe,Food & Beverage,Mid-Market,2022-09-26
+79,Pioneer Electronics,Vihaan Gupta,North America,Automotive,Mid-Market,2022-01-10
+80,North Electronics,Patricia Johnson,North America,Food & Beverage,Mid-Market,2022-02-06
+81,Falcon Industries,Arjun Verma,LATAM,Healthcare,SMB,2023-03-17
+82,Delta Systems,Susan Verma,Europe,Healthcare,SMB,2024-03-26
+83,Blue Ventures,Robert Mehta,Europe,Healthcare,SMB,2022-09-13
+84,Falcon Systems,Aadhya Martinez,LATAM,Automotive,Mid-Market,2024-06-14
+85,North Systems,Susan Nair,LATAM,Construction,Mid-Market,2022-08-31
+86,Summit Systems,Aarav Nair,Europe,Automotive,SMB,2023-02-27
+87,Crest Mart,Mary Singh,Europe,Healthcare,SMB,2023-02-26
+88,Summit Mart,Vihaan Williams,MEA,Construction,SMB,2023-12-20
+89,Prime Supplies,Krishna Iyer,LATAM,Construction,SMB,2023-04-27
+90,Union Logistics,Patricia Singh,APAC,Manufacturing,Mid-Market,2022-11-09
+91,Global Ventures,Saanvi Smith,APAC,Healthcare,SMB,2022-07-17
+92,Apex Mart,Diya Miller,LATAM,Technology,SMB,2022-10-13
+93,Falcon Logistics,Vihaan Kapoor,APAC,Manufacturing,SMB,2022-01-29
+94,Orbit Enterprises,Vihaan Martinez,APAC,Technology,Mid-Market,2022-02-09
+95,Delta Holdings,Ananya Brown,Europe,Food & Beverage,SMB,2024-03-16
+96,Silver Traders,Jessica Rodriguez,North America,Manufacturing,SMB,2023-01-30
+97,Metro Retail,Aadhya Sharma,North America,Food & Beverage,Enterprise,2023-12-27
+98,Falcon Ventures,David Iyer,North America,Healthcare,Mid-Market,2024-01-07
+99,Pioneer Traders,Karen Smith,North America,Food & Beverage,SMB,2023-11-12
+100,Crest Ventures,Vihaan Malhotra,North America,Food & Beverage,Enterprise,2024-05-18
+101,Vertex Ventures,Ananya Williams,North America,Automotive,SMB,2023-02-23
+102,Vertex Electronics,Reyansh Brown,APAC,Automotive,SMB,2022-05-11
+103,Zenith Ventures,Jessica Nair,Europe,Food & Beverage,SMB,2024-02-06
+104,Orbit Enterprises,Navya Sharma,North America,Healthcare,Enterprise,2023-02-20
+105,Vertex Solutions,Mary Rodriguez,North America,Food & Beverage,SMB,2023-03-17
+106,Crest Textiles,Kiara Iyer,APAC,Food & Beverage,Mid-Market,2023-03-29
+107,Coastal Mart,David Nair,North America,Automotive,SMB,2024-03-26
+108,Apex Enterprises,Robert Martinez,APAC,Healthcare,Mid-Market,2023-06-12
+109,Apex Supplies,Krishna Malhotra,MEA,Manufacturing,SMB,2024-02-09
+110,Blue Industries,Vivaan Singh,Europe,Technology,Mid-Market,2022-01-26
+111,Titan Supplies,Aditya Jones,Europe,Technology,Enterprise,2024-02-26
+112,Orbit Solutions,Michael Williams,North America,Technology,Enterprise,2024-01-06
+113,Zenith Solutions,James Sharma,LATAM,Construction,Mid-Market,2022-06-01
+114,Bright Mart,Krishna Nair,North America,Construction,Mid-Market,2023-03-12
+115,Silver Textiles,Navya Singh,North America,Construction,Mid-Market,2022-02-21
+116,Bright Textiles,Mary Jones,Europe,Automotive,Enterprise,2022-05-17
+117,Silver Electronics,Ananya Jones,Europe,Food & Beverage,SMB,2023-09-02
+118,Silver Foods,Karen Davis,LATAM,Technology,Mid-Market,2024-04-30
+119,Summit Holdings,Myra Jones,North America,Healthcare,Enterprise,2024-06-01
+120,Nova Supplies,Ishaan Miller,Europe,Technology,SMB,2023-10-15
+121,Nova Enterprises,Aditya Malhotra,Europe,Manufacturing,Mid-Market,2023-03-27
+122,Metro Logistics,Jessica Davis,Europe,Retail,Mid-Market,2022-11-24
+123,North Industries,Saanvi Reddy,MEA,Automotive,Mid-Market,2022-08-25
+124,Blue Traders,Aadhya Smith,North America,Food & Beverage,Enterprise,2023-03-01
+125,Union Foods,Reyansh Brown,North America,Technology,Enterprise,2022-03-05
+126,Orbit Holdings,Susan Rodriguez,North America,Technology,Enterprise,2022-01-21
+127,Coastal Retail,Rohan Williams,APAC,Construction,Enterprise,2022-12-27
+128,Pioneer Electronics,David Davis,APAC,Construction,SMB,2024-02-05
+129,Titan Systems,Myra Singh,APAC,Healthcare,Mid-Market,2022-08-14
+130,Pioneer Textiles,Saanvi Smith,North America,Automotive,SMB,2022-01-30
+131,Zenith Holdings,Patricia Jones,MEA,Manufacturing,Mid-Market,2022-06-19
+132,Titan Electronics,Karen Williams,APAC,Food & Beverage,SMB,2022-01-28
+133,Orbit Ventures,Aditya Brown,LATAM,Manufacturing,SMB,2022-01-28
+134,Union Industries,Ishaan Williams,APAC,Healthcare,SMB,2022-02-21
+135,Blue Textiles,Ananya Williams,Europe,Healthcare,Mid-Market,2022-12-01
+136,Pioneer Enterprises,Aditya Garcia,LATAM,Retail,Enterprise,2024-05-04
+137,Falcon Retail,Krishna Gupta,LATAM,Construction,Mid-Market,2022-12-25
+138,Prime Mart,Krishna Iyer,MEA,Construction,SMB,2022-02-01
+139,Global Distributors,Krishna Reddy,APAC,Technology,Mid-Market,2022-06-06
+140,Bright Distributors,Kiara Kapoor,North America,Construction,SMB,2022-08-12
+141,Delta Industries,Ira Mehta,APAC,Construction,Enterprise,2023-09-13
+142,Summit Enterprises,Riya Sharma,Europe,Healthcare,SMB,2022-04-21
+143,Orbit Ventures,Saanvi Iyer,Europe,Retail,Mid-Market,2023-01-20
+144,Orbit Holdings,James Singh,North America,Retail,SMB,2024-04-30
+145,Vertex Supplies,Ira Mehta,Europe,Construction,Enterprise,2023-12-02
+146,Orbit Mart,Diya Davis,APAC,Technology,SMB,2022-02-12
+147,Delta Traders,James Smith,APAC,Retail,Enterprise,2023-06-03
+148,Pioneer Supplies,Vihaan Brown,MEA,Healthcare,Mid-Market,2023-05-17
+149,Union Holdings,Aadhya Nair,APAC,Automotive,SMB,2022-06-06
+150,Silver Ventures,Ira Davis,APAC,Construction,Enterprise,2022-10-04
+151,Coastal Textiles,Patricia Rodriguez,APAC,Healthcare,Mid-Market,2023-03-23
+152,Crest Supplies,Patricia Gupta,LATAM,Healthcare,Mid-Market,2022-09-09
+153,Union Solutions,Kiara Rodriguez,North America,Food & Beverage,Enterprise,2024-02-08
+154,Zenith Logistics,Myra Smith,North America,Manufacturing,SMB,2022-01-30
+155,Coastal Solutions,Mary Kapoor,APAC,Healthcare,SMB,2022-12-30
+156,Metro Systems,Michael Kapoor,Europe,Food & Beverage,SMB,2023-09-03
+157,Global Electronics,Aditya Singh,North America,Automotive,Enterprise,2022-07-15
+158,Pioneer Textiles,Linda Singh,MEA,Automotive,SMB,2023-07-23
+159,Coastal Ventures,Myra Jones,Europe,Construction,Enterprise,2023-12-30
+160,Global Traders,Krishna Williams,Europe,Automotive,SMB,2022-10-29
+161,Nova Enterprises,Riya Johnson,Europe,Technology,Mid-Market,2023-11-11
+162,Falcon Electronics,Aadhya Davis,Europe,Healthcare,SMB,2022-12-19
+163,Delta Holdings,Ishaan Malhotra,North America,Healthcare,SMB,2023-04-10
+164,Nova Traders,Reyansh Smith,LATAM,Retail,SMB,2024-01-09
+165,Falcon Mart,Sai Iyer,North America,Manufacturing,Mid-Market,2023-12-08
+166,Coastal Enterprises,Riya Miller,Europe,Food & Beverage,Enterprise,2024-01-12
+167,Vertex Traders,Reyansh Malhotra,MEA,Manufacturing,SMB,2024-05-02
+168,Delta Industries,Aarav Davis,Europe,Manufacturing,SMB,2022-11-06
+169,Metro Retail,Navya Malhotra,APAC,Automotive,SMB,2022-02-25
+170,North Ventures,Linda Garcia,APAC,Retail,SMB,2024-06-08
+171,Global Distributors,Myra Garcia,Europe,Technology,SMB,2022-10-19
+172,Crest Industries,Ishaan Garcia,LATAM,Retail,Enterprise,2022-02-22
+173,Apex Foods,Aditya Rodriguez,Europe,Automotive,SMB,2023-05-19
+174,Prime Industries,Mary Rodriguez,North America,Healthcare,Mid-Market,2022-06-02
+175,Apex Solutions,Navya Brown,MEA,Food & Beverage,SMB,2022-05-02
+176,Titan Mart,Krishna Miller,Europe,Technology,Mid-Market,2023-09-26
+177,Union Systems,Rohan Rodriguez,North America,Technology,SMB,2023-03-30
+178,Vertex Distributors,Vivaan Martinez,MEA,Automotive,SMB,2023-09-28
+179,Bright Mart,James Iyer,APAC,Healthcare,SMB,2022-08-01
+180,Apex Industries,Sai Davis,North America,Retail,Enterprise,2022-09-03
+181,Summit Retail,Kiara Martinez,MEA,Technology,Mid-Market,2023-02-23
+182,Vertex Retail,Rohan Malhotra,APAC,Automotive,Mid-Market,2022-08-26
+183,Union Traders,Krishna Kapoor,North America,Construction,SMB,2023-12-05
+184,Orbit Ventures,Karen Iyer,APAC,Technology,SMB,2024-04-03
+185,Bright Electronics,James Reddy,Europe,Healthcare,SMB,2022-08-19
+186,North Traders,Sai Malhotra,Europe,Food & Beverage,Enterprise,2022-03-03
+187,Orbit Systems,Kiara Mehta,APAC,Technology,SMB,2022-10-23
+188,Vertex Holdings,Ishaan Miller,North America,Food & Beverage,Enterprise,2023-02-17
+189,Coastal Textiles,Ira Verma,Europe,Technology,Mid-Market,2022-03-24
+190,Crest Distributors,Aarav Gupta,Europe,Manufacturing,Mid-Market,2022-09-14
+191,Orbit Distributors,Linda Kapoor,Europe,Food & Beverage,Mid-Market,2022-01-22
+192,Prime Mart,Sai Garcia,Europe,Food & Beverage,SMB,2024-02-14
+193,Union Systems,Sai Rodriguez,North America,Technology,Mid-Market,2022-10-12
+194,Coastal Traders,Diya Brown,North America,Healthcare,SMB,2023-04-27
+195,Crest Ventures,Susan Nair,Europe,Healthcare,SMB,2022-04-18
+196,Pioneer Holdings,Rohan Williams,North America,Construction,Enterprise,2023-05-23
+197,Falcon Retail,Aditya Smith,North America,Healthcare,Enterprise,2023-04-11
+198,Crest Traders,Saanvi Miller,APAC,Construction,Mid-Market,2024-03-02
+199,Global Ventures,Navya Jones,LATAM,Technology,SMB,2024-06-09
+200,Prime Solutions,Diya Martinez,North America,Construction,Enterprise,2023-06-15
+201,Coastal Ventures,Linda Verma,North America,Manufacturing,Mid-Market,2023-03-29
+202,Metro Electronics,Karen Malhotra,North America,Technology,Mid-Market,2022-05-15
+203,Coastal Traders,James Martinez,North America,Construction,SMB,2022-01-30
+204,Nova Holdings,Rohan Davis,APAC,Retail,SMB,2022-06-12
+205,Falcon Foods,Krishna Mehta,Europe,Technology,SMB,2022-04-06
+206,Bright Ventures,Arjun Garcia,LATAM,Automotive,Mid-Market,2024-05-02
+207,Vertex Electronics,Ishaan Brown,APAC,Construction,Mid-Market,2023-12-24
+208,Coastal Textiles,Kiara Davis,North America,Manufacturing,Mid-Market,2022-09-07
+209,Zenith Solutions,Anika Reddy,Europe,Construction,Mid-Market,2023-09-06
+210,Apex Enterprises,Mary Brown,APAC,Healthcare,Mid-Market,2024-03-02
+211,Silver Enterprises,Aarav Malhotra,APAC,Automotive,SMB,2024-04-20
+212,Vertex Supplies,Riya Garcia,Europe,Construction,Mid-Market,2023-08-25
+213,North Textiles,Myra Johnson,Europe,Healthcare,Mid-Market,2023-07-06
+214,Falcon Mart,Saanvi Jones,Europe,Healthcare,Mid-Market,2023-07-11
+215,Blue Holdings,Riya Williams,North America,Manufacturing,Enterprise,2022-09-02
+216,Pioneer Retail,David Garcia,LATAM,Automotive,SMB,2022-11-22
+217,Zenith Foods,Mary Reddy,APAC,Technology,Enterprise,2023-11-11
+218,Prime Industries,Riya Smith,Europe,Construction,SMB,2023-05-30
+219,Bright Supplies,Kiara Mehta,Europe,Food & Beverage,Mid-Market,2024-05-15
+220,Union Retail,Arjun Brown,Europe,Construction,SMB,2024-01-10
+221,North Traders,Mary Kapoor,Europe,Healthcare,SMB,2023-04-26
+222,Titan Holdings,James Gupta,North America,Construction,Mid-Market,2023-02-12
+223,Crest Supplies,Susan Davis,North America,Technology,Mid-Market,2023-11-22
+224,Crest Ventures,Jessica Garcia,North America,Construction,SMB,2024-01-06
+225,Falcon Retail,Aditya Singh,North America,Automotive,Mid-Market,2023-09-25
+226,Vertex Solutions,Aditya Brown,MEA,Retail,Mid-Market,2024-02-04
+227,Bright Textiles,Michael Malhotra,MEA,Retail,SMB,2022-06-20
+228,Prime Logistics,Vivaan Malhotra,North America,Healthcare,SMB,2024-03-26
+229,Delta Foods,Krishna Miller,LATAM,Technology,SMB,2022-05-30
+230,Orbit Ventures,Sai Nair,North America,Manufacturing,Mid-Market,2024-03-22
+231,Apex Distributors,Saanvi Martinez,North America,Automotive,SMB,2024-06-10
+232,Nova Textiles,Arjun Singh,North America,Technology,SMB,2023-08-21
+233,Metro Textiles,Robert Sharma,North America,Construction,Mid-Market,2022-09-19
+234,Union Systems,Robert Davis,Europe,Manufacturing,Enterprise,2022-10-22
+235,Apex Textiles,Riya Malhotra,North America,Automotive,Enterprise,2022-12-20
+236,Pioneer Holdings,Kiara Malhotra,MEA,Manufacturing,SMB,2022-09-14
+237,Zenith Supplies,Vihaan Singh,North America,Technology,SMB,2023-05-10
+238,Orbit Logistics,Rohan Malhotra,Europe,Retail,Mid-Market,2023-08-12
+239,Zenith Enterprises,Riya Verma,North America,Food & Beverage,SMB,2022-01-09
+240,Coastal Supplies,Linda Singh,MEA,Food & Beverage,SMB,2022-10-21
+241,Delta Solutions,Reyansh Martinez,LATAM,Healthcare,Enterprise,2023-10-14
+242,North Ventures,Jessica Verma,APAC,Healthcare,SMB,2022-04-10
+243,Union Retail,Diya Reddy,North America,Retail,Mid-Market,2023-08-17
+244,Vertex Logistics,Aadhya Nair,North America,Manufacturing,SMB,2024-02-05
+245,North Mart,Jessica Johnson,APAC,Food & Beverage,Mid-Market,2023-07-07
+246,Silver Systems,Patricia Nair,LATAM,Healthcare,SMB,2022-10-07
+247,Coastal Mart,David Smith,Europe,Construction,Mid-Market,2022-10-30
+248,Bright Textiles,Arjun Singh,North America,Construction,SMB,2022-03-19
+249,Zenith Supplies,Navya Johnson,North America,Retail,Mid-Market,2024-04-03
+250,Zenith Retail,Navya Mehta,Europe,Technology,SMB,2022-09-28
+251,Delta Ventures,Robert Kapoor,North America,Food & Beverage,SMB,2024-02-06
+252,Zenith Supplies,Diya Mehta,North America,Automotive,SMB,2023-10-16
+253,Nova Textiles,Ira Davis,Europe,Healthcare,SMB,2022-01-26
+254,Titan Solutions,Aditya Jones,APAC,Automotive,Mid-Market,2023-10-26
+255,Vertex Ventures,Vihaan Reddy,North America,Retail,Enterprise,2023-02-23
+256,Prime Enterprises,Vihaan Mehta,Europe,Manufacturing,SMB,2023-05-20
+257,Falcon Industries,Kiara Johnson,North America,Automotive,Enterprise,2023-02-02
+258,Falcon Foods,David Reddy,APAC,Technology,Mid-Market,2023-08-25
+259,Bright Supplies,Ira Brown,APAC,Healthcare,Mid-Market,2023-05-17
+260,Prime Holdings,Reyansh Jones,APAC,Technology,SMB,2023-01-15
+261,Nova Supplies,Vihaan Johnson,APAC,Food & Beverage,Mid-Market,2023-01-07
+262,Delta Retail,Ishaan Iyer,North America,Retail,SMB,2023-02-12
+263,Union Traders,Reyansh Martinez,Europe,Retail,Mid-Market,2023-11-10
+264,Prime Mart,Krishna Reddy,LATAM,Construction,SMB,2022-12-08
+265,Orbit Solutions,Patricia Davis,Europe,Manufacturing,Enterprise,2022-03-12
+266,Orbit Solutions,Susan Singh,LATAM,Healthcare,SMB,2024-04-12
+267,North Mart,Aarav Kapoor,APAC,Construction,SMB,2023-09-03
+268,North Industries,Ishaan Nair,North America,Retail,SMB,2023-07-08
+269,Global Industries,Diya Singh,Europe,Food & Beverage,SMB,2022-01-16
+270,Crest Retail,Ishaan Verma,LATAM,Manufacturing,Enterprise,2022-06-28
+271,Pioneer Electronics,David Gupta,MEA,Technology,Enterprise,2022-04-27
+272,Union Mart,Anika Rodriguez,LATAM,Retail,SMB,2023-01-06
+273,Union Electronics,Ira Verma,Europe,Automotive,Enterprise,2022-08-15
+274,Silver Enterprises,James Sharma,North America,Retail,Enterprise,2023-04-15
+275,Coastal Supplies,Aadhya Mehta,North America,Technology,SMB,2023-02-16
+276,Union Traders,Ananya Martinez,LATAM,Manufacturing,Mid-Market,2022-03-24
+277,Apex Industries,Ira Rodriguez,APAC,Food & Beverage,Mid-Market,2022-10-09
+278,Crest Foods,Anika Malhotra,Europe,Technology,Mid-Market,2023-09-04
+279,Silver Distributors,Vihaan Mehta,Europe,Construction,SMB,2023-03-17
+280,Falcon Holdings,Reyansh Brown,Europe,Technology,SMB,2024-06-05
+281,Nova Foods,Patricia Jones,North America,Technology,Mid-Market,2022-12-14
+282,Pioneer Holdings,Ananya Brown,MEA,Healthcare,Mid-Market,2022-04-08
+283,Metro Logistics,Robert Garcia,North America,Retail,SMB,2022-06-06
+284,Apex Supplies,Aditya Brown,Europe,Retail,SMB,2022-03-29
+285,Delta Mart,Navya Verma,North America,Food & Beverage,Mid-Market,2022-05-14
+286,Falcon Electronics,Robert Mehta,North America,Technology,Mid-Market,2022-12-04
+287,Delta Supplies,Linda Brown,Europe,Construction,SMB,2023-11-13
+288,Prime Enterprises,Rohan Johnson,Europe,Retail,Mid-Market,2023-09-07
+289,Orbit Electronics,Arjun Garcia,Europe,Manufacturing,Mid-Market,2022-08-06
+290,Bright Logistics,Navya Johnson,North America,Retail,SMB,2024-05-15
+291,Metro Distributors,Mary Brown,Europe,Construction,SMB,2022-08-20
+292,Falcon Mart,Ira Martinez,Europe,Automotive,Mid-Market,2024-04-18
+293,Falcon Retail,Karen Kapoor,APAC,Retail,Enterprise,2023-09-16
+294,Summit Enterprises,Linda Malhotra,North America,Healthcare,SMB,2023-12-21
+295,Delta Retail,Susan Reddy,North America,Food & Beverage,SMB,2022-07-05
+296,Zenith Traders,David Sharma,North America,Retail,Mid-Market,2022-05-26
+297,Silver Solutions,Aadhya Jones,North America,Healthcare,SMB,2023-01-21
+298,Summit Logistics,David Smith,LATAM,Construction,Mid-Market,2022-11-16
+299,Orbit Distributors,Jessica Verma,APAC,Manufacturing,Mid-Market,2022-03-28
+300,Summit Mart,Vivaan Gupta,LATAM,Healthcare,Enterprise,2023-09-25
+301,Union Ventures,Myra Martinez,North America,Technology,Mid-Market,2023-03-11
+302,Pioneer Enterprises,Linda Miller,Europe,Retail,SMB,2022-08-09
+303,Delta Foods,Rohan Rodriguez,APAC,Technology,Mid-Market,2022-04-24
+304,Silver Ventures,Vivaan Singh,Europe,Technology,Mid-Market,2022-11-12
+305,Titan Retail,Reyansh Malhotra,Europe,Manufacturing,SMB,2022-01-08
+306,North Mart,Rohan Smith,Europe,Retail,SMB,2022-09-19
+307,Global Textiles,Aadhya Nair,APAC,Manufacturing,SMB,2024-02-04
+308,Zenith Electronics,Krishna Miller,Europe,Food & Beverage,SMB,2023-12-22
+309,Delta Traders,Susan Verma,Europe,Technology,Mid-Market,2023-02-11
+310,Global Textiles,Susan Smith,Europe,Food & Beverage,Mid-Market,2022-03-21
+311,Pioneer Distributors,Michael Brown,North America,Healthcare,SMB,2023-02-19
+312,Bright Foods,Ananya Nair,Europe,Construction,Mid-Market,2022-01-22
+313,Titan Textiles,Michael Johnson,North America,Retail,Enterprise,2024-05-01
+314,Pioneer Supplies,Krishna Brown,Europe,Food & Beverage,SMB,2022-04-19
+315,Zenith Electronics,Saanvi Malhotra,APAC,Automotive,Mid-Market,2022-03-22
+316,Crest Solutions,Linda Nair,North America,Retail,SMB,2022-12-08
+317,Silver Ventures,Anika Miller,LATAM,Manufacturing,SMB,2022-04-27
+318,Delta Logistics,Patricia Reddy,APAC,Manufacturing,SMB,2024-01-15
+319,Bright Industries,Reyansh Nair,Europe,Food & Beverage,SMB,2022-09-20
+320,North Mart,James Gupta,North America,Manufacturing,SMB,2024-02-17
+321,Coastal Textiles,Riya Rodriguez,North America,Technology,Mid-Market,2024-02-12
+322,Orbit Ventures,Ira Smith,Europe,Construction,Mid-Market,2023-10-13
+323,Crest Industries,Aditya Garcia,APAC,Technology,SMB,2023-03-27
+324,Vertex Mart,Riya Verma,Europe,Healthcare,SMB,2022-10-09
+325,Silver Traders,Kiara Jones,APAC,Retail,Enterprise,2022-11-14
+326,Prime Logistics,Rohan Gupta,North America,Automotive,Enterprise,2024-05-01
+327,Apex Distributors,Anika Williams,Europe,Technology,Mid-Market,2023-09-01
+328,Orbit Electronics,David Verma,APAC,Technology,Enterprise,2024-03-21
+329,Orbit Ventures,Ananya Martinez,APAC,Technology,SMB,2022-07-12
+330,Silver Industries,Kiara Mehta,Europe,Construction,SMB,2022-03-05
+331,Crest Holdings,Anika Nair,APAC,Retail,Mid-Market,2022-03-28
+332,Nova Holdings,Kiara Miller,Europe,Food & Beverage,Enterprise,2023-03-25
+333,Titan Industries,Diya Malhotra,LATAM,Technology,SMB,2023-01-08
+334,Pioneer Mart,Robert Martinez,Europe,Retail,SMB,2022-12-13
+335,Crest Traders,Vihaan Davis,LATAM,Automotive,SMB,2022-12-04
+336,Zenith Enterprises,David Martinez,APAC,Construction,SMB,2022-09-16
+337,North Logistics,Riya Reddy,North America,Healthcare,Mid-Market,2022-03-25
+338,Vertex Ventures,Robert Williams,MEA,Manufacturing,Enterprise,2023-12-17
+339,Titan Holdings,Rohan Davis,APAC,Technology,Mid-Market,2022-03-28
+340,Crest Supplies,Robert Miller,Europe,Retail,Enterprise,2022-05-11
+341,Pioneer Electronics,Aarav Johnson,APAC,Healthcare,SMB,2023-01-06
+342,Summit Solutions,Linda Garcia,MEA,Manufacturing,Mid-Market,2022-12-16
+343,Nova Industries,Aditya Malhotra,LATAM,Construction,Mid-Market,2022-06-08
+344,Bright Electronics,Navya Miller,APAC,Retail,SMB,2024-02-29
+345,Crest Systems,Ira Reddy,North America,Food & Beverage,Enterprise,2024-02-24
+346,Zenith Industries,Sai Martinez,APAC,Construction,SMB,2022-06-16
+347,Summit Holdings,Vivaan Brown,North America,Healthcare,SMB,2023-03-25
+348,Nova Textiles,Rohan Jones,APAC,Manufacturing,SMB,2023-09-18
+349,Falcon Solutions,Mary Garcia,LATAM,Construction,Mid-Market,2022-11-13
+350,Blue Logistics,Riya Jones,North America,Technology,Enterprise,2023-11-26
+351,Vertex Mart,Anika Miller,LATAM,Technology,SMB,2023-01-27
+352,Summit Supplies,Mary Martinez,APAC,Manufacturing,Mid-Market,2022-07-24
+353,Metro Retail,Myra Johnson,APAC,Food & Beverage,Mid-Market,2023-10-19
+354,Bright Holdings,Anika Mehta,Europe,Healthcare,SMB,2024-05-16
+355,Apex Mart,Ishaan Jones,APAC,Food & Beverage,Mid-Market,2022-06-14
+356,North Supplies,Aditya Singh,APAC,Construction,Enterprise,2023-03-24
+357,Union Systems,Karen Sharma,Europe,Technology,Mid-Market,2022-12-24
+358,Prime Foods,Diya Singh,North America,Technology,Enterprise,2023-05-30
+359,Apex Logistics,Aarav Smith,MEA,Retail,Mid-Market,2022-08-18
+360,Crest Mart,Arjun Verma,APAC,Healthcare,SMB,2022-05-30
+361,Coastal Holdings,Arjun Garcia,APAC,Technology,Mid-Market,2024-05-01
+362,Titan Retail,Aarav Kapoor,LATAM,Manufacturing,Mid-Market,2022-03-23
+363,North Electronics,Ira Miller,Europe,Technology,SMB,2024-01-15
+364,Bright Mart,Krishna Malhotra,North America,Retail,SMB,2022-10-23
+365,Prime Solutions,James Martinez,Europe,Technology,Mid-Market,2023-03-06
+366,Apex Traders,Jessica Garcia,North America,Food & Beverage,Mid-Market,2024-05-06
+367,Falcon Retail,Anika Rodriguez,APAC,Manufacturing,Enterprise,2023-10-10
+368,North Enterprises,Aarav Martinez,MEA,Healthcare,SMB,2023-03-16
+369,Nova Distributors,Sai Gupta,MEA,Food & Beverage,Mid-Market,2023-03-03
+370,Delta Traders,Navya Miller,APAC,Construction,Mid-Market,2023-06-23
+371,Silver Electronics,Saanvi Garcia,APAC,Retail,Mid-Market,2022-01-21
+372,Zenith Logistics,David Sharma,Europe,Healthcare,SMB,2022-09-17
+373,Apex Logistics,David Mehta,North America,Construction,Mid-Market,2022-09-04
+374,Orbit Holdings,Ananya Reddy,North America,Retail,SMB,2024-02-14
+375,Delta Electronics,Patricia Nair,LATAM,Construction,SMB,2022-12-13
+376,Union Holdings,James Nair,Europe,Construction,Mid-Market,2023-05-06
+377,North Traders,Linda Jones,Europe,Retail,SMB,2024-01-04
+378,Vertex Solutions,Mary Iyer,Europe,Retail,Mid-Market,2022-02-14
+379,Crest Systems,Anika Williams,APAC,Construction,SMB,2022-11-14
+380,Falcon Textiles,Vivaan Iyer,Europe,Healthcare,SMB,2022-09-17
+381,Delta Supplies,Vivaan Smith,APAC,Healthcare,SMB,2024-03-10
+382,Bright Mart,Aadhya Williams,Europe,Automotive,SMB,2023-01-12
+383,Union Systems,Ananya Nair,APAC,Technology,SMB,2023-01-31
+384,Coastal Logistics,Anika Kapoor,LATAM,Construction,SMB,2024-03-27
+385,Apex Holdings,Aditya Brown,APAC,Food & Beverage,SMB,2023-03-11
+386,Summit Electronics,Ananya Mehta,APAC,Retail,SMB,2022-10-28
+387,Crest Ventures,Rohan Jones,LATAM,Food & Beverage,SMB,2022-10-30
+388,Pioneer Industries,Kiara Johnson,North America,Technology,SMB,2023-12-08
+389,Prime Holdings,Karen Johnson,North America,Food & Beverage,SMB,2024-06-09
+390,Pioneer Enterprises,Mary Verma,Europe,Retail,Mid-Market,2023-10-17
+391,Zenith Logistics,Mary Nair,Europe,Retail,SMB,2023-06-10
+392,North Supplies,Robert Jones,North America,Retail,SMB,2023-09-15
+393,North Traders,Linda Johnson,APAC,Healthcare,SMB,2022-08-30
+394,Zenith Distributors,Ira Reddy,Europe,Automotive,Mid-Market,2022-02-03
+395,Union Logistics,Kiara Gupta,APAC,Food & Beverage,Enterprise,2023-01-16
+396,North Electronics,Saanvi Smith,LATAM,Automotive,Enterprise,2023-01-11
+397,Metro Solutions,Aarav Nair,North America,Technology,Enterprise,2022-04-27
+398,Silver Foods,Vihaan Kapoor,Europe,Construction,SMB,2023-07-30
+399,Metro Holdings,Reyansh Martinez,North America,Healthcare,SMB,2023-04-02
+400,Coastal Solutions,Arjun Gupta,MEA,Technology,Enterprise,2022-05-06

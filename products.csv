@@ -1,0 +1,30 @@
+product_id,product_name,category,unit_price
+1,Wireless Mouse,Electronics,648.15
+2,4K Monitor,Electronics,35.53
+3,USB-C Hub,Electronics,33.47
+4,Mechanical Keyboard,Electronics,285.21
+5,Noise Cancelling Headphones,Electronics,423.02
+6,Webcam HD,Electronics,658.29
+7,Portable SSD 1TB,Electronics,585.55
+8,Bluetooth Speaker,Electronics,387.33
+9,Ergonomic Chair,Office Supplies,243.48
+10,Standing Desk,Office Supplies,847.6
+11,Desk Organizer,Office Supplies,370.86
+12,Whiteboard,Office Supplies,391.91
+13,Printer Paper Case,Office Supplies,151.63
+14,Sticky Notes Pack,Office Supplies,678.67
+15,Filing Cabinet,Office Supplies,594.22
+16,Bookshelf Unit,Furniture,199.34
+17,Conference Table,Furniture,83.79
+18,Reception Sofa,Furniture,583.22
+19,Office Cabinet,Furniture,561.52
+20,Storage Locker,Furniture,243.17
+21,Antivirus Suite (1yr),Software Licenses,808.97
+22,Project Mgmt Tool (1yr),Software Licenses,141.13
+23,Cloud Storage 1TB (1yr),Software Licenses,376.0
+24,CRM License (1yr),Software Licenses,802.92
+25,Safety Helmet,Industrial,365.47
+26,Work Gloves (Pair),Industrial,548.17
+27,Toolkit Set,Industrial,346.99
+28,Industrial Shelving,Industrial,243.97
+29,Warehouse Cart,Industrial,836.62
